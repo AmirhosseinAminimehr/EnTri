@@ -1,7 +1,10 @@
-Link to the Arxiv version of this publication:
+Code for this paper:
+EnTri.ipynb
+
+Link to the arXiv version of this publication:
 https://arxiv.org/pdf/2307.12442
 
-MIT67, SUN397 and UIUC8 have been used in this publication:
+MIT67, SUN397, and UIUC8 datasets were used in this publication:
 
 [1] Quattoni, A., Torralba, A.: Recognizing indoor scenes. In: 2009 IEEE Conference on Computer Vision and Pattern Recognition, pp. 413–420 (2009). IEEE
 
